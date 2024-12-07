@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap");
+html {
+  font-family: "SUSE", sans-serif;
+}
+.wraper {
+  margin: 50px;
+  padding: 50px;
+  width: 1500px;
+  height: 500px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: solid 0px;
+  border-radius: 20px;
+}
+.rightDiv {
+  border: 0px solid;
+  border-radius: 20px;
+  background-color: rgb(237, 237, 237);
+  width: 600px;
+  height: 500px;
+}
+.leftDiv {
+  background-color: rgb(251, 255, 232);
+  width: 600px;
+  height: 500px;
+  margin: 20px;
+  padding: 20px;
+}
+h1 {
+  font-family: "SUSE", sans-serif;
+  color: rgb(170, 170, 170);
+  margin: 50px;
+  padding: 50px;
+}
+.card {
+  font-family: "SUSE", sans-serif;
+}
+button {
+  font-family: "SUSE", sans-serif;
+}
+table {
+  font-family: "SUSE", sans-serif;
+}
+.noProd {
+  display: none;
+}
+h4 {
+  padding: 10px;
+  margin: 10px;
+  font-size: 15px;
+  opacity: 0.2;
+}
+#clearSessionBtn {
+  padding: 10px;
+  margin: 10px;
+}
+#clearBoardBtn {
+  padding: 10px;
+  margin: 10px;
+}
